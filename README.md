@@ -1,5 +1,6 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/martin-georgiev/social-post/badges/quality-score.png)](https://scrutinizer-ci.com/g/martin-georgiev/social-post/?branch=master)
 [![Build Status](https://api.travis-ci.org/martin-georgiev/social-post.svg?branch=master)](https://www.travis-ci.org/martin-georgiev/social-post)
+[![Coverage Status](https://coveralls.io/repos/github/martin-georgiev/social-post/badge.svg?branch=master)](https://coveralls.io/github/martin-georgiev/social-post?branch=master)
 [![Latest Stable Version](https://poser.pugx.org/martin-georgiev/social-post/version)](https://packagist.org/packages/martin-georgiev/social-post)
 [![Total Downloads](https://poser.pugx.org/martin-georgiev/social-post/downloads)](https://packagist.org/packages/martin-georgiev/social-post)
 
@@ -12,7 +13,7 @@ This is a library that provides centralised gateway for publishing post updates 
 ## How to install it?
 Recommended way is through [Composer](https://getcomposer.org/download/)
 
-    composer require "martin-georgiev/social-post"
+    composer require martin-georgiev/social-post
     
 
 ----
