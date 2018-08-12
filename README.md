@@ -12,7 +12,7 @@ This is a library that provides centralised gateway for publishing post updates 
 ## How to install it?
 Recommended way is through [Composer](https://getcomposer.org/download/)
 
-    composer require "martin-georgiev/social-post"
+    composer require martin-georgiev/social-post
     
 
 ----

@@ -61,6 +61,9 @@
         "run-tests": [
             "bin/phpunit"
         ],
+        "run-tests-with-clover": [
+            "bin/phpunit --coverage-clover build/logs/clover.xml"
+        ],
         "validate-files": [
             "bin/parallel-lint --exclude vendor --exclude bin ."
         ]
