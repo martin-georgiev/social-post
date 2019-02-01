@@ -38,7 +38,7 @@
         "php-coveralls/php-coveralls": "^2.1",
         "phpstan/phpstan": "^0.10.2",
         "phpunit/phpunit": "^7.2",
-        "sensiolabs/security-checker": "^4.1",
+        "sensiolabs/security-checker": "^4.1 || ^5.0",
         "symfony/phpunit-bridge": "^3.0|^4.0"
     },
 
