@@ -36,7 +36,7 @@
         "friendsofphp/php-cs-fixer": "*",
         "jakub-onderka/php-parallel-lint": "^1.0",
         "php-coveralls/php-coveralls": "^2.1",
-        "phpstan/phpstan": "^0.10.2",
+        "phpstan/phpstan": "^0.10.2 || ^0.11.0",
         "phpunit/phpunit": "^7.2",
         "sensiolabs/security-checker": "^4.1",
         "symfony/phpunit-bridge": "^3.0|^4.0"
