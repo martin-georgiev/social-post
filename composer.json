@@ -27,7 +27,7 @@
     "require": {
         "php": "^7.1",
         "ext-curl": "*",
-        "abraham/twitteroauth": "^0.7",
+        "abraham/twitteroauth": "^0.7 || ^1.0",
         "facebook/graph-sdk": "^5.4",
         "happyr/linkedin-api-client": "^1.0",
         "php-http/curl-client": "^1.7"
